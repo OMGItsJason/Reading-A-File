@@ -1,0 +1,23 @@
+C:\Users\Jason User\Documents\Reading a File\Reading a File\bin\Debug\net7.0-windows\Reading a File.exe
+C:\Users\Jason User\Documents\Reading a File\Reading a File\bin\Debug\net7.0-windows\Reading a File.deps.json
+C:\Users\Jason User\Documents\Reading a File\Reading a File\bin\Debug\net7.0-windows\Reading a File.runtimeconfig.json
+C:\Users\Jason User\Documents\Reading a File\Reading a File\bin\Debug\net7.0-windows\Reading a File.dll
+C:\Users\Jason User\Documents\Reading a File\Reading a File\bin\Debug\net7.0-windows\Reading a File.pdb
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\Reading a File_MarkupCompile.cache
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\Reading a File.g.resources
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\Reading a File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\Reading a File.AssemblyInfoInputs.cache
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\Reading a File.AssemblyInfo.cs
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\Reading a File.csproj.CoreCompileInputs.cache
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\Reading a File.dll
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\refint\Reading a File.dll
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\Reading a File.pdb
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\Reading a File.genruntimeconfig.cache
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\ref\Reading a File.dll
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\FrmRegistration.baml
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\FrmRegistration.g.cs
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\FrmStudentRecord.baml
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\FrmStudentRecord.g.cs
